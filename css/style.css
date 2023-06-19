@@ -135,6 +135,7 @@ main {
 .recommended__card {
 }
 .recommended__card-img {
+  margin-bottom: 32px;
 }
 .recommended__card-img img {
   width: 100%;
@@ -290,7 +291,6 @@ main {
   .recommended__card-img {
     max-width: 392px;
     max-height: 387px;
-    margin-bottom: 32px;
   }
   .recommended__card-img img {
     width: 100%;
@@ -341,6 +341,10 @@ main {
   }
   .nav__item a:hover {
     border-bottom: none;
+  }
+
+  .recommended__card-img {
+    margin-bottom: 10px;
   }
 
   .categories__row {
